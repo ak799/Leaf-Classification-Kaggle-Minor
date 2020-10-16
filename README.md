@@ -10,4 +10,3 @@ https://www.kaggle.com/c/leaf-classification/
 
 **classifier-comparison.ipynb** - It has the performance and accuracy of 10 scikit-learn algorithms.
 
-**logistic-reg.ipynb** - In this logistic algorithm is applied making use of StratifiedKFold which is a cross validator.
