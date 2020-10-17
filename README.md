@@ -8,5 +8,5 @@ https://www.kaggle.com/c/leaf-classification/
 
 **leaf-start.ipynb** - It has all the basic steps of dataset importing and splitting the dataset into train and test dataset.
 
-**classifier-comparison.ipynb** - It has the performance and accuracy of 8 scikit-learn algorithms.
+**classifier.ipynb** - It has the performance and accuracy of 10 scikit-learn algorithms.
 
