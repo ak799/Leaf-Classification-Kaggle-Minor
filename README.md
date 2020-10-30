@@ -10,3 +10,4 @@ https://www.kaggle.com/c/leaf-classification/
 
 **classifier.ipynb** - It has the performance and accuracy of 10 scikit-learn algorithms.
 
+**param-tune.ipynb** - In this three classifiers (Random Forest, SVC, KNeighbours) performance and log loss is improved.
