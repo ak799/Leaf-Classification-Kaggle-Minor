@@ -13,3 +13,5 @@ https://www.kaggle.com/c/leaf-classification/
 **param-tune.ipynb** - In this three classifiers (Random Forest, SVC, KNeighbours) performance and log loss is improved using GridSearchCV.
 
 **leaf-classification.ipynb** - All the implementation till parameter tuning is done in this.
+
+**cnn-implementation.ipynb** - Implementation of CNN algorithm.
